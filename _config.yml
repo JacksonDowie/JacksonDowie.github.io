@@ -1,2 +1,13 @@
-title: "Jackson — Blog"
+title: "Jackson’s Blog
+description: "Research, musings, and writing.”
 theme: minima
+
+# Show these pages as tabs (in this order)
+header_pages:
+  - about.md
+  - cv-portfolio.md
+
+# Turn on later
+# plugins:
+#   - jekyll-feed
+#   - jekyll-seo-tag
